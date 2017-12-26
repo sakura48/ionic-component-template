@@ -1,0 +1,22 @@
+{
+  "name": "ionic-component-template",
+  "version": "0.1.0",
+  "description": "ionic-component-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "you-init": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakura48/ionic-component-template.git"
+  },
+  "author": "chin_you",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakura48/ionic-component-template/issues"
+  },
+  "homepage": "https://github.com/sakura48/ionic-component-template#readme"
+}
